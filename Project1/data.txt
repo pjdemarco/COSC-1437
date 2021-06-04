@@ -1,0 +1,5 @@
+1,Penguin Random House,New York,1,The Testaments,2019,1,Margaret Atwood,1939
+1,Penguin Random House,New York,2,Where the Crawdads Sing,2019,2,Delia Owens,1949
+2,Hachette Livre,New York,3,The Paris Secret,2016,3,Natasha Lester,1973
+3,Pitchstone,Houston Texas,4,Cynical Theories,2020,4,Helen Pluckrose,1980
+3,Pitchstone,Houston Texas,4,Cynical Theories,2020,5,James A Lindsay,1940
